@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>Document</title>
+ </head>
+ <body>
+  <table>
+  <tr>
+	<td><img src="C:\Users\RAMU\3D Objects\WEB_tECHNOLOGIES/sbi.png" height="200px" width="200px"></td>
+	<td><h1>Victory yu</h1>
+	<p>Associate sr software engineer at<strong>XYZ technology</strong></p>
+	<p>I am front end <strong>developer</strong></p>
+	</td>
+	 </tr> 
+	 </table>
+	 <hr>
+	 <h3>Courses achieved</h3>
+	 <ul>
+	 <li>Full stack development</li>
+	 <li>photoshop expertise crash course</li>
+	 <li>meditation & innerpeace</li></ul>
+	 <h3>Work Experience</h3>
+	 <table cellpadding="5">
+	 <tr>
+		<th>Date</th>
+		<th>Work</th>
+	 </tr>
+	 <tr>
+		<td>2010-2013</td>
+		<td>lead developer at ymk developer</td>
+	 </tr>
+	 <tr>
+		<td>2013-present</td>
+		<td>manager at xyz technology</td>
+	 </tr>
+	 </table>
+	 <h3>Skills</h3><table>
+	 <tr>
+		<td>Java</td>
+		<td>⭐⭐⭐⭐⭐</td>
+		<td>Photography</td>
+		<td>⭐⭐⭐⭐</td>
+	 </tr>
+	 <tr>
+		<td>Web development</td>
+		<td>⭐⭐⭐⭐⭐</td>
+		<td>drawing</td>
+		<td>⭐⭐⭐</td>
+	 </tr>
+	 </table>
+	 <hr>
+	 <a href="">My Hobbies</a>
+	 <a href="">Contact me</a>
+
+ </body>
+</html>
